@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/pione30/zenn.dev#readme",
   "devDependencies": {
-    "zenn-cli": "0.1.107"
+    "zenn-cli": "0.1.132"
   }
 }
